@@ -1,4 +1,4 @@
-var input = require('fs').readFileSync('D:\\beecrowd_solucoes\\soma-simples\\calculo.txt', 'utf8');
+var input = require('fs').readFileSync('D:\\beecrowd_solucoes\\soma-simples\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**
