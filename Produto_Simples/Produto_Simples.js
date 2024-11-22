@@ -9,7 +9,7 @@
 // antes e depois da igualdade. Não esqueça de imprimir o fim de linha após o produto, caso 
 // contrário seu programa apresentará a mensagem: “Presentation Error”.
 
-var input = require('fs').readFileSync('D:\\beecrowd_solucoes\\Produto_Simples\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Produto_Simples\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

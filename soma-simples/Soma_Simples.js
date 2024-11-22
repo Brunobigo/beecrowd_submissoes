@@ -9,7 +9,7 @@
 // depois da igualdade seguido pelo valor correspondente à soma de A e B. Como todos os problemas, 
 // não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
-var input = require('fs').readFileSync('D:\\beecrowd_solucoes\\soma-simples\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\soma-simples\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**
