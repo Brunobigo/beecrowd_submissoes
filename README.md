@@ -1,3 +1,21 @@
+<h1 align="center">
+  
+  REPOSITÓRIO PARA SUBMISSÕES DO SITE BEECROWD
+  
+</h1>
+
+## Introdução
+
+Este repositório foi criado com intuito de colocar as submissões ou tentativas dos desafios propostos no site [Beecrowd](https://judge.beecrowd.com/pt). Sendo assim, também servirá como estudo e portifólio. **Veja o final do readme para contato e redes sociais!**
+
+---
+
+## Como se localizar no repositório
+
+Cada pasta contém dois arquivos nos quais um é **JS** (Javascript) e outro é um arquivo de input **TXT** (Texto)</br>
+**JS** Contém todo o código aceito na submissão.</br>
+**TXT** Contém dados de entrada onde poderá ser modificado para testes do código, normalmente populado com dados do proprio desafio.
+
 ---
 
 <h2 align="center">
