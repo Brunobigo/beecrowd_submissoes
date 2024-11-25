@@ -2,6 +2,8 @@
   
   REPOSITÓRIO PARA SUBMISSÕES DO SITE BEECROWD
   
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&labelColor=%23235b5b5b&color=%23F7DF1E" alt="static badge javascript"/></a>
+  
 </h1>
 
 ## Introdução
@@ -27,13 +29,13 @@ Cada pasta contém dois arquivos nos quais um é **JS** (Javascript) e outro é 
 <!-- Badges com links e informações de contato -->
 <div align="center">
   
-  ![Static Badge](https://img.shields.io/badge/Beecrowd-588185-purple?link=https%3A%2F%2Fjudge.beecrowd.com%2Fpt%2Fprofile%2F588185)
-  ![Static Badge](https://img.shields.io/badge/LinkedIn-bruno%20bigo%20bueno-blue?logo=LinkedIn&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbruno-bigo-bueno%2F)
-  ![Static Badge](https://img.shields.io/badge/Instagram-brunointrat-orange?logo=Instagram&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fbrunointrat%2F)
-  ![Static Badge](https://img.shields.io/badge/Alura-brunobigo-blue?logo=alura&link=https%3A%2F%2Fcursos.alura.com.br%2Fuser%2Fbrunobigo)
-  ![Static Badge](https://img.shields.io/badge/Github-Brunobigo-blue?logo=github&color=%23181717&link=https%3A%2F%2Fgithub.com%2FBrunobigo)
-  ![Static Badge](https://img.shields.io/badge/Whatsapp-5551981730137-green?logo=whatsapp&color=%2325D366&link=https%3A%2F%2Fwa.me%2F5551981730137)
-  ![Static Badge](https://img.shields.io/badge/Gmail-intratechinfo%40gmail.com-orange?logo=gmail&color=%23EA4335&link=intratechinfo%40gmail.com)
+  <a href="https://judge.beecrowd.com/pt/profile/588185"><img src="https://img.shields.io/badge/Beecrowd-588185-white?style=flat&logo=beecrowd&labelColor=%235b5b5b&color=%23a957be" alt="static badge beecrowd"/></a>
+  <a href="https://www.instagram.com/brunointrat"><img src="https://img.shields.io/badge/Instagram-brunointrat-white?style=flat&logo=instagram&labelColor=%235b5b5b&color=%23E4405F" alt="static badge instagram"/></a>
+  <a href="https://www.linkedin.com/in/bruno-bigo-bueno"><img src="https://img.shields.io/badge/LinkedIn-bruno%20bigo%20bueno-white?style=flat&logo=linkedin&labelColor=%235b5b5b&color=%230A66C2" alt="static badge linkedin"/></a>
+  <a href="https://cursos.alura.com.br/user/brunobigo"><img src="https://img.shields.io/badge/Alura-brunobigo-white?style=flat&logo=alura&labelColor=%235b5b5b&color=%23051d3b" alt="static badge alura"/></a>
+  <a href="https://github.com/Brunobigo"><img src="https://img.shields.io/badge/Github-Brunobigo-white?style=flat&logo=github&labelColor=%235b5b5b&color=%23181717" alt="static badge github"/></a>  
+  <a href="https://intratechinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-intratechinfo%40gmail.com-white?logo=gmail&labelColor=%235b5b5b&color=%23EA4335" alt="static badge gmail"/></a>
+  <a href="https://wa.me/5551981730137"><img src="https://img.shields.io/badge/Whatsapp-5551981730137-white?style=flat&logo=whatsapp&labelColor=%23235b5b5b&color=%2325D366" alt="static badge whatsapp"/></a>
   
 </div>
 
