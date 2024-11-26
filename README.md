@@ -1,4 +1,9 @@
 <h1 align="center">
+
+  <img src="https://repository-images.githubusercontent.com/478489997/77666b87-dc82-40e9-a525-583c05f2a5cf" alt="beecrowd" title="beecrowd" width="162">
+
+  </br>
+  </br>
   
   REPOSITÓRIO PARA SUBMISSÕES DO SITE BEECROWD
   
@@ -8,16 +13,19 @@
   <a href="https://github.com"><img src="https://img.shields.io/badge/Github-white?style=flat&logo=github&labelColor=%235b5b5b&color=%23181717" alt="static badge github"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-white?style=flat&logo=git&labelColor=%235b5b5b&color=%23F05032"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-white?style=flat&logo=vscode&color=%230078d4"/></a>
-  
+  <a href="https://judge.beecrowd.com/pt/problems/index/1/"><img src="https://img.shields.io/badge/BC-Iniciante-white?style=flat&logo=beecrowd&labelColor=%23793197&color=%231abc9c"/></a>
+
 </h1>
 
 > [!IMPORTANT]\
 > Não usar este repositório para copiar e colar, mas sim para eventuais consultas ou estudos!
 
+---
+
 ## Introdução
 
 Este repositório foi criado com intuito de colocar as submissões ou tentativas dos desafios propostos no site [Beecrowd](https://judge.beecrowd.com/pt). Sendo assim, também servirá como estudo e portifólio. **Veja o final do readme para contato e redes sociais!**
-
+  
 ---
 
 ## Como se localizar no repositório
@@ -25,6 +33,36 @@ Este repositório foi criado com intuito de colocar as submissões ou tentativas
 Cada pasta contém dois arquivos nos quais um é **JS** (Javascript) e outro é um arquivo de input **TXT** (Texto)</br>
 **JS** Contém todo o código aceito na submissão.</br>
 **TXT** Contém dados de entrada onde poderá ser modificado para testes do código, normalmente populado com dados do proprio desafio.
+
+---
+
+## Instalação
+
+Utilizar comando abaixo para clonar o repositorio:
+
+```git
+git clone https://github.com/Brunobigo/beecrowd_submissoes_iniciante.git
+```
+
+Ou baixe diretamente neste link: [**Download do repositório em formato ZIP**](https://github.com/Brunobigo/beecrowd_submissoes_iniciante/archive/refs/heads/main.zip)
+
+---
+
+## Exemplo de código encontrado no repositório 
+
+- **Javascript**
+
+```js
+var input = require('fs').readFileSync('.\\soma-simples\\input.txt', 'utf8');
+var lines = input.split('\n');
+
+const a = parseInt(lines[0]);
+const b = parseInt(lines[1]);
+
+const soma = a + b;
+
+console.log("SOMA = " + soma);
+```
 
 ---
 
@@ -46,5 +84,3 @@ Cada pasta contém dois arquivos nos quais um é **JS** (Javascript) e outro é 
   <a href="https://wa.me/5551981730137"><img src="https://img.shields.io/badge/Whatsapp-5551981730137-white?style=flat&logo=whatsapp&labelColor=%235b5b5b&color=%2325D366" alt="static badge whatsapp"/></a>
   
 </div>
-
----
