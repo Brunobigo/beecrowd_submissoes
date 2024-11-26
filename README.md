@@ -40,7 +40,7 @@ Cada pasta contém dois arquivos nos quais um é **JS** (Javascript) e outro é 
 
 Utilizar comando abaixo para clonar o repositorio:
 
-```git
+```bash
 git clone https://github.com/Brunobigo/beecrowd_submissoes_iniciante.git
 ```
 
@@ -50,7 +50,7 @@ Ou baixe diretamente neste link: [**Download do repositório em formato ZIP**](h
 
 ## Exemplo de código encontrado no repositório 
 
-- **Javascript**
+**Javascript** <img src="https://cdn.simpleicons.org/javascript/000/F7DF1E" alt="Node" align=left width=24>
 
 ```js
 var input = require('fs').readFileSync('.\\soma-simples\\input.txt', 'utf8');
