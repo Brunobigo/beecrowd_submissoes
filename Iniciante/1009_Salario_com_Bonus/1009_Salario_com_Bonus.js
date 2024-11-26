@@ -25,8 +25,8 @@ const nome = lines[0];
 const salarioFixo = parseFloat(lines[1]);
 const totalVendas = parseFloat(lines[2]);
 
-const comissão = totalVendas * 0.15; // 15%
+const comissao = totalVendas * 0.15; // 15%
 
-const salarioFinal = comissão + salarioFixo;
+const salarioFinal = comissao + salarioFixo;
 
 console.log('TOTAL = R$ ' + salarioFinal.toFixed(2)); // TOTAL = R$ 684.54
