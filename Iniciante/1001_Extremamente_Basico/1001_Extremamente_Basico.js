@@ -1,4 +1,4 @@
-/**
+/*
 Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, 
 ao utilizar um automóvel que faz 12 KM/L. Para isso, ele gostaria que você o auxiliasse através 
 de um simples programa. Para efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) 
@@ -13,7 +13,7 @@ Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 */
 
-var input = require('fs').readFileSync('.\\Gasto_de_Combustivel\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\1001_Extremamente_Basico\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**
@@ -22,10 +22,9 @@ Code your solution here
 Escriba su solución aquí
  */
 
-const tempo = parseInt(lines[0]);// horas
-const velocidadeMedia = parseInt(lines[1]);// km/h
+const a = parseInt(lines[0]);
+const b = parseInt(lines[1]);
 
-const distancia = tempo * velocidadeMedia;
-const consumo = distancia / 12;
+const x = a + b;
 
-console.log(consumo.toFixed(3)); //70.833
+console.log('X = ' + x); //19

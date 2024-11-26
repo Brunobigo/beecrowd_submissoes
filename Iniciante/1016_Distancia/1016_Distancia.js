@@ -1,4 +1,4 @@
-/**
+/*
 Dois carros (X e Y) partem em uma mesma direção. O carro X sai com velocidade constante de 60 Km/h
 e o carro Y sai com velocidade constante de 90 Km/h.
 
@@ -15,7 +15,7 @@ Saída
 Imprima o tempo necessário seguido da mensagem "minutos".
 */
 
-var input = require('fs').readFileSync('.\\Distancia\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\1016_Distancia\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

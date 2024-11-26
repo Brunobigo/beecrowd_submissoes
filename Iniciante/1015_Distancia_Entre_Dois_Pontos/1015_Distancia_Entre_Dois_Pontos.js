@@ -1,5 +1,5 @@
 Timelimit: 1
-/**
+/*
 Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) 
 e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais, segundo a fórmula:
 
@@ -12,7 +12,8 @@ ponto flutuante: x1 y1 e a segunda linha contém dois valores de ponto flutuante
 Saída
 Calcule e imprima o valor da distância segundo a fórmula fornecida, considerando 4 casas decimais.
 */
-var input = require('fs').readFileSync('.\\Distancia_Entre_Dois_Pontos\\input.txt', 'utf8');
+
+var input = require('fs').readFileSync('.\\1015_Distancia_Entre_Dois_Pontos\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

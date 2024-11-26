@@ -1,4 +1,4 @@
-/**
+/*
 A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema 
 que π = 3.14159:
 
@@ -13,7 +13,7 @@ após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todo
 de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 */
 
-var input = require('fs').readFileSync('.\\Area_do_Circulo\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\1002_Area_do_Circulo\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

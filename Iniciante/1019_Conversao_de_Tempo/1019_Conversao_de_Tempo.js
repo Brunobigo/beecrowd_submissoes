@@ -1,4 +1,4 @@
-/**
+/*
 Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, 
 e informe-o expresso no formato horas:minutos:segundos.
 
@@ -10,7 +10,7 @@ Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:min
 conforme exemplo fornecido.
 */
 
-var input = require('fs').readFileSync('.\\Conversao_de_Tempo\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\1019_Conversao_de_Tempo\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

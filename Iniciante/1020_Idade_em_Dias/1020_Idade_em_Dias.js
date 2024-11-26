@@ -1,4 +1,4 @@
-/**
+/*
 Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
 
 Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. 
@@ -12,7 +12,7 @@ Saída
 Imprima a saída conforme exemplo fornecido.
 */
 
-var input = require('fs').readFileSync('.\\Idade_em_Dias\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\1020_Idade_em_Dias\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**
