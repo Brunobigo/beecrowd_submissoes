@@ -27,5 +27,4 @@ const b = parseInt(lines[1]);
 
 const x = a + b;
 
-
-console.log('X = ' + x); //70.833
+console.log('X = ' + x); //19
