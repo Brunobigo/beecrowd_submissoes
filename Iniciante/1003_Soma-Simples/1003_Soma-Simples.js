@@ -12,7 +12,7 @@ depois da igualdade seguido pelo valor correspondente à soma de A e B. Como tod
 não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 */
 
-var input = require('fs').readFileSync('.\\1003_Soma-Simples\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1003_Soma-Simples\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

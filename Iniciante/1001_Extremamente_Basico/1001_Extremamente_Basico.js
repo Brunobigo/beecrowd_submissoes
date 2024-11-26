@@ -13,7 +13,7 @@ Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 */
 
-var input = require('fs').readFileSync('.\\1001_Extremamente_Basico\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1001_Extremamente_Basico\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

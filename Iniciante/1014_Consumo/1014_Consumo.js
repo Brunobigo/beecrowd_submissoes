@@ -11,7 +11,7 @@ Apresente o valor que representa o consumo médio do automóvel com 3 casas apó
 seguido da mensagem "km/l".
 */
 
-var input = require('fs').readFileSync('.\\1014_Consumo\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1014_Consumo\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

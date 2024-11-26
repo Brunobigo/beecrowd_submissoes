@@ -12,7 +12,7 @@ Saída
 Imprima a saída conforme exemplo fornecido.
 */
 
-var input = require('fs').readFileSync('.\\1020_Idade_em_Dias\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1020_Idade_em_Dias\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

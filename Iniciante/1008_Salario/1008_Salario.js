@@ -12,7 +12,7 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
 */
 
-var input = require('fs').readFileSync('.\\1008_Salario\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1008_Salario\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

@@ -10,7 +10,7 @@ Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:min
 conforme exemplo fornecido.
 */
 
-var input = require('fs').readFileSync('.\\1019_Conversao_de_Tempo\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1019_Conversao_de_Tempo\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

@@ -12,7 +12,7 @@ decimal e com um espaço em branco antes e depois da igualdade. Assim como todos
 esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 */
 
-var input = require('fs').readFileSync('.\\1006_Media_2\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1006_Media_2\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

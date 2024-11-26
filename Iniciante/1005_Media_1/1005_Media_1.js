@@ -13,7 +13,7 @@ dupla precisão (double) e como todos os problemas, não esqueça de imprimir o 
 após o resultado, caso contrário, você receberá "Presentation Error".7
 */
 
-var input = require('fs').readFileSync('.\\1005_Media_1\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1005_Media_1\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

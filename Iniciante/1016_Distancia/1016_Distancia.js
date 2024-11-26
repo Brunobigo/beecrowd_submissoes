@@ -15,7 +15,7 @@ Saída
 Imprima o tempo necessário seguido da mensagem "minutos".
 */
 
-var input = require('fs').readFileSync('.\\1016_Distancia\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1016_Distancia\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

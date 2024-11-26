@@ -13,7 +13,7 @@ Saída
 Calcule e imprima o valor da distância segundo a fórmula fornecida, considerando 4 casas decimais.
 */
 
-var input = require('fs').readFileSync('.\\1015_Distancia_Entre_Dois_Pontos\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1015_Distancia_Entre_Dois_Pontos\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

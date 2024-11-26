@@ -13,7 +13,7 @@ após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todo
 de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 */
 
-var input = require('fs').readFileSync('.\\1002_Area_do_Circulo\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1002_Area_do_Circulo\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**

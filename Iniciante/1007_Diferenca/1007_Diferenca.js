@@ -11,7 +11,7 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 branco antes e depois da igualdade.
 */
 
-var input = require('fs').readFileSync('.\\1007_Diferenca\\input.txt', 'utf8');
+var input = require('fs').readFileSync('.\\Iniciante\\1007_Diferenca\\input.txt', 'utf8');
 var lines = input.split('\n');
 
 /**
