@@ -69,6 +69,12 @@ console.log("SOMA = " + soma);
 
 ---
 
+## Desenvolvedor
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/61289159?v=4" width=115><br><sub>Bruno Bigorenski Bueno</sub>](https://github.com/Brunobigo) |
+| :---: |
+
+---
 <h2 align="center">
   
   CONTATOS E REDES SOCIAIS
